@@ -82,7 +82,7 @@
                         <configuration>
                             <target>
                                 <copy todir="${project.build.directory}/classes/public">
-                                    <fileset dir="${project.basedir}/frontend/my-app/build"/>
+                                    <fileset dir="${project.basedir}/frontend/WTM_hackathon/build"/>
                                 </copy>
                             </target>
                         </configuration>
